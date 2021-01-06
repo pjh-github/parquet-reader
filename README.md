@@ -1,2 +1,2 @@
 # paraquet-reader
-A simple set of python files for printing paraquet content and converting them to CSVs. 
+A simple set of scripts for dealing with paraquets. Includes printing .paraquet file content and converting them to CSVs. 
