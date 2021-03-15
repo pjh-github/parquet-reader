@@ -1,5 +1,5 @@
 # parquet-reader
-Two simple python scripts for dealing with parquets. Includes printing .parquet file content and converting them to CSVs. 
+Two simple python scripts for dealing with parquets. Allows printing .parquet file content and converting them to CSVs. 
 
 # Usage
 ``` 
